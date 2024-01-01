@@ -1,1 +1,2 @@
-from .gatt import DeviceManager, Device, Service, Characteristic
+from*.gatt import DeviceManager, Device, Service, Characteristic
+ 
